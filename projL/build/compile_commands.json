@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/magsgl/Desktop/OpenGl/lighting/lightingMaps/projL/build",
+  "command": "/usr/bin/g++ -g -g -o CMakeFiles/room.dir/src/main.cpp.o -c /home/magsgl/Desktop/OpenGl/lighting/lightingMaps/projL/src/main.cpp",
+  "file": "/home/magsgl/Desktop/OpenGl/lighting/lightingMaps/projL/src/main.cpp",
+  "output": "CMakeFiles/room.dir/src/main.cpp.o"
+}
+]

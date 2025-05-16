@@ -1,0 +1,3 @@
+/home/magsgl/Desktop/OpenGl/lighting/lightingMaps/projL/build/CMakeFiles/room.dir
+/home/magsgl/Desktop/OpenGl/lighting/lightingMaps/projL/build/CMakeFiles/edit_cache.dir
+/home/magsgl/Desktop/OpenGl/lighting/lightingMaps/projL/build/CMakeFiles/rebuild_cache.dir
